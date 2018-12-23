@@ -41,7 +41,7 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="28" />
+    <option name="x" value="19" />
     <option name="y" value="23" />
     <option name="width" value="1415" />
     <option name="height" value="834" />
@@ -85,15 +85,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545517820365</updated>
-      <workItem from="1545517821535" duration="606000" />
+      <workItem from="1545517821535" duration="870000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="606000" />
+    <option name="totallyTimeSpent" value="870000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="28" y="23" width="1415" height="834" extended-state="0" />
+    <frame x="-1678" y="113" width="1415" height="834" extended-state="0" />
     <layout>
       <window_info id="Gulp" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
